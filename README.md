@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=<img width="1007" height="124" alt="Captura de pantalla 2026-02-27 222848" src="https://github.com/user-attachments/assets/1d7e98a7-e0d1-4981-9b12-c03bf588f7ea" />
+  <img src=<img width="1007" height="124" alt="src="https://github.com/user-attachments/assets/1d7e98a7-e0d1-4981-9b12-c03bf588f7ea" />
 "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Universidad_Tecnologica.svg/320px-Logo_Universidad_Tecnologica.svg.png" width="150">
 </p>
 
